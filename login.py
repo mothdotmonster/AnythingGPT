@@ -20,4 +20,4 @@ mastodon.log_in(
     to_file = 'pytooter_usercred.secret'
 )
 
-print("Sign-in complete! Please make sure to keep all .secret files secret!")
+print("Sign-in complete. Make sure to keep all .secret files secret!")
